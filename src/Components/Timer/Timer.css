@@ -1,0 +1,56 @@
+.watch {
+    --buttonBackground: #0326c3;
+    --dark: #d1dff3;
+    --timerBackground: #fff;
+    --buttonText: #fff;
+    --buttonTextActive: #fff;
+    --buttonTextHover: #fff;
+    text-align: center;
+    border: 1px solid #777;
+    width: 100%;
+    max-width: 390px;
+    margin: 4rem auto;
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+}
+
+.time {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    opacity: 0.7;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.controls button {
+    appearance: none;
+    background: none;
+    outline: none;
+    user-select: none;
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: var(--buttonText);
+    background-color: var(--buttonBackground);
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: 0.4s;
+    opacity: 0.5;
+}
+
+.controls button:hover {
+    opacity: 0.7;
+    color: var(--buttonTextHover);
+}
+
+.controls button:active {
+    opacity: 1.0;
+    color: var(--buttonTextActive);
+}
