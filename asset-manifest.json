@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW_FE_230131/static/css/main.900cbd03.css",
+    "main.js": "/HW_FE_230131/static/js/main.142337ba.js",
+    "index.html": "/HW_FE_230131/index.html",
+    "main.900cbd03.css.map": "/HW_FE_230131/static/css/main.900cbd03.css.map",
+    "main.142337ba.js.map": "/HW_FE_230131/static/js/main.142337ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900cbd03.css",
+    "static/js/main.142337ba.js"
+  ]
+}
