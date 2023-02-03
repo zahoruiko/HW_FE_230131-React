@@ -1,3 +1,3 @@
-# Timer & Dark/Light theme switcher
+# Timer & Dark/Light theme switcher in ReactJS
 
-[Link:](https://zahoruiko.github.io/HW_FE_230131/).
+[Link to demo page](https://zahoruiko.github.io/HW_FE_230131/)
