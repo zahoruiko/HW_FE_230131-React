@@ -2,7 +2,7 @@
   "name": "react230131",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zahoruiko.github.io/HW_FE_230131",
+  "homepage": "https://zahoruiko.github.io/HW_FE_230131-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
